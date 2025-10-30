@@ -1,0 +1,30 @@
+Game Log
+Date & Time: 2025-10-29 15:34:08
+Word: sorrow
+Word Length: 6
+Result: Loss
+Wrong Guesses: 6
+Score: 0
+
+--- Guesses (in order) ---
+1. a → Wrong
+2. e → Wrong
+3. i → Wrong
+4. o → Correct
+5. u → Wrong
+6. s → Correct
+7. d → Wrong
+8. h → Wrong
+
+Wrong Letters: a, e, i, u, d, h
+Remaining Attempts: 0
+
+--- Cumulative Player Statistics ---
+Games Played: 1
+Wins: 0
+Losses: 1
+Total Score: 0
+Win Rate: 0.0%
+Average Score: 0.0
+
+---------------------------------------

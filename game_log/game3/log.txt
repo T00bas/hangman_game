@@ -1,0 +1,31 @@
+Game Log
+Date & Time: 2025-10-29 15:40:22
+Word: wear
+Word Length: 4
+Result: Loss
+Wrong Guesses: 6
+Score: 0
+
+--- Guesses (in order) ---
+1. s → Wrong
+2. a → Correct
+3. e → Correct
+4. b → Wrong
+5. l → Wrong
+6. f → Wrong
+7. r → Correct
+8. p → Wrong
+9. g → Wrong
+
+Wrong Letters: s, b, l, f, p, g
+Remaining Attempts: 0
+
+--- Cumulative Player Statistics ---
+Games Played: 2
+Wins: 0
+Losses: 2
+Total Score: 0
+Win Rate: 0.0%
+Average Score: 0.0
+
+---------------------------------------
