@@ -229,4 +229,3 @@ def write_game_log(folder, state, win, score, stats):
         log_file.touch(exist_ok=True)
     except Exception as e:
         print("⚠️ Error writing game log:", e)
-
